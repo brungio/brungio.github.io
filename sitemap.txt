@@ -1,8 +1,8 @@
-http://www.brunolgiordano.net/BLG_2012_JASA.htm
-http://www.brunolgiordano.net/BLG_2013_CerCor.htm
-http://www.brunolgiordano.net/dissertation.htm
-http://www.brunolgiordano.net/index.htm
-http://www.brunolgiordano.net/publications.htm
-http://www.brunolgiordano.net/reviewer.htm
-http://www.brunolgiordano.net/teaching.htm
-http://www.brunolgiordano.net/talks.htm
+http://brungio.github.io/BLG_2012_JASA.htm
+http://brungio.github.io/BLG_2013_CerCor.htm
+http://brungio.github.io/dissertation.htm
+http://brungio.github.io/index.htm
+http://brungio.github.io/publications.htm
+http://brungio.github.io/reviewer.htm
+http://brungio.github.io/teaching.htm
+http://brungio.github.io/talks.htm
