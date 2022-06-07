@@ -130,7 +130,7 @@ li{margin-top:7px;}
 <i>Last updated: June 2, 2022</i>
     <h2>Journal Papers</h2>
     <ol class="number">
-        <li> Combrisson, E., Allegra, M., Basanisi, R., Ince, R.A., Giordano, B.L., Bastin, J., & Brovelli, A. (in press). Group-level inference of information-based measures for the analyses of cognitive brain networks from neurophysiological data. <i>Neuroimage</i>. <a href="BLG_2021_NHB.bib">BibTeX</a>.
+        <li> Combrisson, E., Allegra, M., Basanisi, R., Ince, R.A., Giordano, B.L., Bastin, J., & Brovelli, A. (in press). Group-level inference of information-based measures for the analyses of cognitive brain networks from neurophysiological data. <i>Neuroimage.</i>. <a href="BLG_2021_NHB.bib">BibTeX</a>.
         </li>
         <li> Bodin, C., Trapeau, R., Nazarian, B., Sein, J., DeGiovanni, X., Baurberg, J., Rapha, E., Renaud, L., Giordano, B.L., & Belin, P. (2021). Functionally homologous representation of vocalizations in the auditory cortex of humans and macaques. <i>Current Biology</i>, 31, 4839–4844. <a href="CB_2021_CurrBio.pdf" onClick="_gaq.push(['_trackPageview', '/downloads/CB_2021_CurrBio']); ">Fulltext</a>, <a href="CB_2021_CurrBio.bib">BibTeX</a>.
         </li>
